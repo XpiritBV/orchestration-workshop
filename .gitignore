@@ -1,6 +1,7 @@
 *.pyc
 *.swp
 *.dll
+*.pdb
 *.cache
 *~
 prepare-vms/ips.txt

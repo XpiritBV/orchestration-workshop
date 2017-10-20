@@ -15,9 +15,9 @@ namespace hasher_win.Controllers
     {
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            return String.Format("HASHER running on {0} \n", Dns.GetHostName());
         }
 
         // GET api/values/5
@@ -40,14 +40,19 @@ namespace hasher_win.Controllers
 
         // POST api/values
         [HttpPost]
-        public string Post([FromBody]string value)
+        public HttpResponseMessage Post([FromBody]string value)
         {
             Byte[] valueBytes = System.Text.Encoding.Unicode.GetBytes(value);
             Byte[] hashedValue;
 
             SHA256 mySHA = SHA256.Create();
             hashedValue = mySHA.ComputeHash(valueBytes);
-            return System.Text.Encoding.UTF8.GetString(hashedValue);
+
+            var resp = new HttpResponseMessage(HttpStatusCode.OK);
+            resp.Content = new StringContent(System.Text.Encoding.UTF8.GetString(hashedValue), System.Text.Encoding.UTF8, "text/plain");
+            return resp;
+            
+            //return System.Text.Encoding.UTF8.GetString(hashedValue);
         }
     }
 }
