@@ -1,0 +1,10 @@
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/bin/Debug/netcoreapp2.0/hasher_win.deps.json
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/bin/Debug/netcoreapp2.0/hasher_win.runtimeconfig.json
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/bin/Debug/netcoreapp2.0/hasher_win.runtimeconfig.dev.json
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/bin/Debug/netcoreapp2.0/hasher_win.dll
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/bin/Debug/netcoreapp2.0/hasher_win.pdb
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.csproj.CoreCompileInputs.cache
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.AssemblyInfoInputs.cache
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.AssemblyInfo.cs
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.dll
+/Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.pdb
