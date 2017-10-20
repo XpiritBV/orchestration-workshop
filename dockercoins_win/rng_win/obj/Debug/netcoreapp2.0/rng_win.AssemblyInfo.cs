@@ -7,11 +7,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("dockercoins_win")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("rng_win")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("dockercoins_win")]
-[assembly: System.Reflection.AssemblyTitleAttribute("dockercoins_win")]
+[assembly: System.Reflection.AssemblyProductAttribute("rng_win")]
+[assembly: System.Reflection.AssemblyTitleAttribute("rng_win")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

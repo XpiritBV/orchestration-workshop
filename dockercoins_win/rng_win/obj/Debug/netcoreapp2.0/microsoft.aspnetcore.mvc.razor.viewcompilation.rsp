@@ -1,0 +1,5 @@
+E:\Git\orchestration-workshop\dockercoins_win\rng_win
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=rng_win
+--content-root=E:\Git\orchestration-workshop\dockercoins_win\rng_win
+--file=

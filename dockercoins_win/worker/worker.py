@@ -18,7 +18,7 @@ redis = Redis("redis")
 
 
 def get_random_bytes():
-    r = requests.get("http://rng/32")
+    r = requests.get("http://rng_win/api/random/32")
     return r.content
 
 

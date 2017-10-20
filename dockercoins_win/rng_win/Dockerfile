@@ -13,4 +13,5 @@ RUN dotnet publish -c Release -o out
 FROM microsoft/aspnetcore:2.0
 WORKDIR /app
 COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "dockercoins_win.dll"]
+EXPOSE 80
+ENTRYPOINT ["dotnet", "rng_win.dll"]

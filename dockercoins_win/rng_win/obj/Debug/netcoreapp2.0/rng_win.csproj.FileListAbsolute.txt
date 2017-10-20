@@ -1,0 +1,10 @@
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\bin\Debug\netcoreapp2.0\rng_win.deps.json
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\bin\Debug\netcoreapp2.0\rng_win.runtimeconfig.json
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\bin\Debug\netcoreapp2.0\rng_win.runtimeconfig.dev.json
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\bin\Debug\netcoreapp2.0\rng_win.dll
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\bin\Debug\netcoreapp2.0\rng_win.pdb
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\obj\Debug\netcoreapp2.0\rng_win.csproj.CoreCompileInputs.cache
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\obj\Debug\netcoreapp2.0\rng_win.AssemblyInfoInputs.cache
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\obj\Debug\netcoreapp2.0\rng_win.AssemblyInfo.cs
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\obj\Debug\netcoreapp2.0\rng_win.dll
+E:\Git\orchestration-workshop\dockercoins_win\rng_win\obj\Debug\netcoreapp2.0\rng_win.pdb
