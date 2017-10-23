@@ -8,3 +8,13 @@
 /Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.AssemblyInfo.cs
 /Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.dll
 /Users/mvandersijde/dev/win-orchestration-workshop/dockercoins_win/hasher_win/obj/Debug/netcoreapp2.0/hasher_win.pdb
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\bin\Debug\netcoreapp2.0\hasher_win.deps.json
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\bin\Debug\netcoreapp2.0\hasher_win.runtimeconfig.json
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\bin\Debug\netcoreapp2.0\hasher_win.runtimeconfig.dev.json
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\bin\Debug\netcoreapp2.0\hasher_win.dll
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\bin\Debug\netcoreapp2.0\hasher_win.pdb
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\obj\Debug\netcoreapp2.0\hasher_win.csproj.CoreCompileInputs.cache
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\obj\Debug\netcoreapp2.0\hasher_win.AssemblyInfoInputs.cache
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\obj\Debug\netcoreapp2.0\hasher_win.AssemblyInfo.cs
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\obj\Debug\netcoreapp2.0\hasher_win.dll
+e:\Git\orchestration-workshop\dockercoins_win\hasher_win\obj\Debug\netcoreapp2.0\hasher_win.pdb

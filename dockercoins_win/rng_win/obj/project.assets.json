@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Git\\orchestration-workshop\\dockercoins_win\\hasher_win\\hasher_win.csproj",
-      "projectName": "hasher_win",
-      "projectPath": "e:\\Git\\orchestration-workshop\\dockercoins_win\\hasher_win\\hasher_win.csproj",
+      "projectUniqueName": "e:\\Git\\orchestration-workshop\\dockercoins_win\\rng_win\\rng_win.csproj",
+      "projectName": "rng_win",
+      "projectPath": "e:\\Git\\orchestration-workshop\\dockercoins_win\\rng_win\\rng_win.csproj",
       "packagesPath": "C:\\Users\\kverh\\.nuget\\packages\\",
-      "outputPath": "e:\\Git\\orchestration-workshop\\dockercoins_win\\hasher_win\\obj\\",
+      "outputPath": "e:\\Git\\orchestration-workshop\\dockercoins_win\\rng_win\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

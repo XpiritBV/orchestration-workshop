@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/rng_win/rng_win.csproj"
+                "${workspaceRoot}/dockercoins_win/hasher_win/hasher_win.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

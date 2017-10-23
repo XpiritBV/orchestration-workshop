@@ -4,10 +4,10 @@ services:
   rng_win:
     build: rng_win
     ports:
-    - "8003:80"
+    - "8001:80"
 
-  hasher:
-    build: hasher
+  hasher_win:
+    build: hasher_win
     ports:
     - "8002:80"
 
